@@ -1,4 +1,4 @@
-Age Gender Likes Meat Likes Vegetables 
+Age Gender Likes Meat Vegetables 
 30 Male Yes Yes  
 25 Female No Yes  
 35 Female Yes No  
