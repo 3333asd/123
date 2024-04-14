@@ -1,4 +1,4 @@
-Age   Gender   Dyed   Long
+Age   Gender   Dyed        Long
 25    Male     Yes         No
 32    Female   No          No
 40    Male     Yes         No
