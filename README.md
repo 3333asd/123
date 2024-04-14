@@ -247,12 +247,11 @@ git add [Uploading treedata.Age	Gender	Status	LikeUser
 15-40	female	high	yes
 41-80	female	high	no
 15-40	female	low	no
-git commit -m "Add txt data file"
-git remote add origin https://github.com/333asd/treedata
-git push -u origin master
-
 41-80	female	low	yes
 15-40	male	high	yes
 41-80	female	low	no
 15-40	female	high	yes
 15-40	male	high	yestxt…]()
+git commit -m "Add txt data file"
+git remote add origin https://github.com/333asd/treedata
+git push -u origin master
